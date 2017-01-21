@@ -1,0 +1,23 @@
+{
+  "name": "week2-lesson2",
+  "version": "1.0.0",
+  "description": "demo app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mekhaleganesh/Comp308-W2017-L2.git"
+  },
+  "author": "mekhal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mekhaleganesh/Comp308-W2017-L2/issues"
+  },
+  "homepage": "https://github.com/mekhaleganesh/Comp308-W2017-L2#readme",
+  "dependencies": {
+    "connect": "^3.5.0"
+  }
+}
